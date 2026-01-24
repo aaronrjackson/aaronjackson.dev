@@ -11,13 +11,17 @@ p {
     margin-bottom: 0.5em; /*small spacing between lines */
 }
 
+a {
+    color: #5b79ff
+}
+
 .footer {
     position: fixed;
     bottom: 0;
     width: 100%;
     padding-top: 1.5em;
     padding-bottom: 1.5em;
-    border-top: 1px solid #3b3b3b;
+    border-top: 1px solid #3f3f3f;
     background-color: #333333;
     display: flex;
     flex-direction: column;
